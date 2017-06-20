@@ -1,0 +1,23 @@
+{
+  "name": "gasfinder",
+  "version": "1.0.0",
+  "description": "replicarApi",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aydasulca/replica-GasFinder.git"
+  },
+  "author": "AYDA",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aydasulca/replica-GasFinder/issues"
+  },
+  "homepage": "https://github.com/aydasulca/replica-GasFinder#readme",
+  "devDependencies": {
+    "express": "^4.15.3"
+  }
+}
